@@ -9,3 +9,20 @@
 <br />
 
 ### Connect with me via:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/Bonev1993#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Bonev1993#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kristiyan-bonev-53b374231#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kristiyan-bonev-53b374231#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/bonev1993#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/bonev1993#gh-dark-mode-only)
+<br />
+
+### Languages and Tools:
+
+
+<br />
+<br />
+
