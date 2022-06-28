@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,python,vscode,ubuntu" />
+   <img src="https://skillicons.dev/icons?i=js,python,vscode,linux" />
 </a>
 <br />
 
