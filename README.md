@@ -1,5 +1,4 @@
 # Hello World, I'm Kristiyan Bonev👋 
-<br />
 
 ## I'm a Entry-Level Developer 💻 and Crypto Enthusiast 🌐
 - 🌱 I’m currently learning everything. 🤣
