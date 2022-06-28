@@ -18,11 +18,12 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/bonev1993#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/bonev1993#gh-dark-mode-only)
+&nbsp;&nbsp;
 <br />
+
 
 ### Languages and Tools:
 
 
 <br />
 <br />
-
