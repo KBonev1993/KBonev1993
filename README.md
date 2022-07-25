@@ -16,6 +16,6 @@
 
 ## Connect with me via:
 <p align="left">
-<a href="https://www.linkedin.com/in/kristiyan-bonev-53b374231/" target="blank"><img align="center" src=""https://skillicons.dev/icons?i=linkedin" alt="Kristiyan Bonev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kristiyan-bonev-53b374231/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Kristiyan Bonev" height="30" width="40" /></a>
 </p>
 
