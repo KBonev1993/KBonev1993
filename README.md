@@ -10,7 +10,7 @@
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=python,django,js,vscode,html,css,linux" />
+   <img src="https://skillicons.dev/icons?i=python,django,js,vscode,html,css,postgresql,linux" />
 </a>
 
 
