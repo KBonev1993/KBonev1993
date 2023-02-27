@@ -1,7 +1,7 @@
 # Hello World, I'm Kristiyan Bonev👋
 
 
-## Entry-Level Developer 💻 and Crypto Enthusiast 🌐
+## Junior-Level Developer 💻 and Crypto Enthusiast 🌐
 
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to collaborate with other content creators.
