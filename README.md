@@ -33,7 +33,7 @@ Let's connect and explore opportunities that enable me to apply my expertise and
 ## Connect with me via:
 <p align="left">
 <a href="https://www.linkedin.com/in/kristiyan-bonev-53b374231/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Kristiyan Bonev"/></a>
-<a href="https://www.twitter.com/Bonev1993/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Kristiyan Bonev"/></a>
-<a href="https://www.discord.com/users/B1V#7649/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Kristiyan Bonev"/></a>
+<a href="https://twitter.com/TheCoinHustlers" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Kristiyan Bonev"/></a>
+<a href="https://discord.gg/USQV5F2sY9" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Kristiyan Bonev"/></a>
 </p>
 
