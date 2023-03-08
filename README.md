@@ -3,10 +3,7 @@
 
 ## Junior-Level Developer 💻 and Crypto Enthusiast 🌐
 
-- 🌱 I’m currently learning everything. 🤣
-- 👯 I’m looking to collaborate with other content creators.
-
-As an E-commerce Solutions Diagnostic and Maintenance Specialist with experience in AWS and other Public Cloud Platforms, I am dedicated to delivering high-quality results and outstanding service. My expertise in scripting with BASH, Perl or Python and log parsing and analysis enables me to handle complex issues with ease.
+- As an E-commerce Solutions Diagnostic and Maintenance Specialist with experience in AWS and other Public Cloud Platforms, I am dedicated to delivering high-quality results and outstanding service. My expertise in scripting with BASH, Perl or Python and log parsing and analysis enables me to handle complex issues with ease.
 
 My skills in web services and network protocols, combined with my fluency in English (verbally and written), make me an excellent communicator and a valuable asset to any team. My flexible attitude toward different technologies and platforms enables me to learn quickly and adapt to change.
 
