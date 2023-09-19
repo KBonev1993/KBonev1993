@@ -22,7 +22,6 @@
    Let's connect and explore opportunities that enable me to apply my expertise and enthusiasm to contribute to your team's success!
 <br />
 
-{{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
