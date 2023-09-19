@@ -25,7 +25,7 @@
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,linux,discord,jenkins,postgresql,mysql" />
+   <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,linux,jenkins,postgresql,mysql" />
 </a>
 
 
