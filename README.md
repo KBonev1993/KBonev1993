@@ -1,22 +1,28 @@
-# Hello World, I'm Kristiyan Bonev👋
+# Hello World, I'm Kristiyan Bonev 👋
+
+Welcome to my GitHub profile! I specialize in E-commerce Solutions Diagnostics and Maintenance, with a strong background in AWS and other Public Cloud Platforms. My technical prowess extends across various domains, making me a versatile and effective problem-solver.
+
+## Expertise
+- **Scripting Languages**: Proficient in BASH, Perl, and Python for scripting, log parsing, and analysis.
+- **Web Services & Network Protocols**: Skilled in managing web services and understanding network protocols, enhancing my communication abilities.
+- **Language Proficiency**: Fluent in English, both verbally and written.
+- **Adaptability**: Quick learner with a flexible approach towards different technologies and platforms.
+- **Teamwork & Discipline**: Strong team player with a disciplined, team-first mindset.
+- **High-Pressure Performance**: Capable of swiftly adapting to changing environments and excelling under pressure.
+- **Travel Readiness**: Open to short and long-term travel for professional growth and learning.
+
+## Technical Skills
+- **Programming Languages**: Proficient in Python, JavaScript, and familiar with basic HTML and CSS.
+- **Object-Oriented Programming**: Experienced in creating class hierarchies and understanding inheritance.
+- **Software Testing & Algorithms**: Skilled in unit testing, working with iterators, generators, decorators, and understanding basic algorithms.
+- **Data Structures**: Knowledgeable in both linear and two-dimensional data structures.
+- **Web Development**: Capable of handling data streams, files, directories, HTTP, and developing simple single-page applications.
+- **Database & API Integration**: Experienced with non-relational databases, REST APIs, and asynchronous programming.
+- **DOM Manipulation & JSON**: Proficient in information extraction and manipulation using JSON and DOM tree techniques.
 
 
+Thank you for visiting my profile. Let's make great things happen together!
 
-   As an E-commerce Solutions Diagnostic and Maintenance Specialist with experience in AWS and other Public Cloud Platforms, I am dedicated to delivering high-quality      results and outstanding service. My expertise in scripting with BASH, Perl or Python and log parsing and analysis enables me to handle complex issues with ease.
-
-   My skills in web services and network protocols, combined with my fluency in English (verbally and written), make me an excellent communicator and a valuable asset     to any team. My flexible attitude toward different technologies and platforms enables me to learn quickly and adapt to change.
-
-   I have a disciplined and "team first approach" oriented mindset and can shift gears quickly, which allows me to work effectively and efficiently in high-pressure       situations. With travel ability (short/long term), I am always ready to explore new horizons and learn new things.
-
-   My programming language skills are exceptional, and I am capable of handling standard functionality, problem analysis, reduction to computer-executable steps,          linear data structures, basic HTML and CSS skills, and the interrelationship between different IT concepts. I also have experience with the object-oriented             programming paradigm and can create a class hierarchy and inheritance.
-
-   My expertise in unit testing, working with iterators and generators, decorators, two-dimensional data structures, linear data structures, basic algorithms, and         functional programming are an added advantage.
-
-   I can work with data streams, files, and directories, error handling, HTTP, and simple single-page applications. Additionally, I have experience with templates and     routing, non-relational databases, REST APIs, and asynchronous programming.
-
-   With my expertise in working with classes and objects, functions, and JSON formats, I can provide accurate information extraction and manipulation of the DOM tree.     I have an application of object-oriented programming and functional programming skills that make me a valuable team member.
-
-   Let's connect and explore opportunities that enable me to apply my expertise and enthusiasm to contribute to your team's success!
 <br />
 
 
