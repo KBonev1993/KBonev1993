@@ -22,7 +22,7 @@
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,terraform,linux,mysql,mongodb,aws,azure,postman,raspberrypi,jenkins" />
+   <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,linux,mysql,mongodb,aws,azure,postman,raspberrypi,jenkins" />
 </a>
 
 
