@@ -1,29 +1,30 @@
 # Hello World, I'm Kristiyan Bonev 👋
 
-Welcome to my GitHub profile! I specialize in E-commerce Solutions Diagnostics and Maintenance, with a strong background in AWS and other Public Cloud Platforms. My technical prowess extends across various domains, making me a versatile and effective problem-solver.
+Welcome to my GitHub profile! I am an E-commerce Solutions Diagnostic and Maintenance Specialist with a rich background in AWS and other Public Cloud Platforms. My diverse technical skill set enables me to effectively address complex challenges in various domains.
 
 ## Expertise
-- **Scripting Languages**: Proficient in BASH, Perl, and Python for scripting, log parsing, and analysis.
-- **Web Services & Network Protocols**: Skilled in managing web services and understanding network protocols, enhancing my communication abilities.
+- **Scripting Languages**: Advanced skills in BASH, Perl, and Python for scripting, log parsing, and analysis.
+- **Web Services & Network Protocols**: Proficient in managing web services and understanding network protocols.
 - **Language Proficiency**: Fluent in English, both verbally and written.
-- **Adaptability**: Quick learner with a flexible approach towards different technologies and platforms.
-- **Teamwork & Discipline**: Strong team player with a disciplined, team-first mindset.
-- **High-Pressure Performance**: Capable of swiftly adapting to changing environments and excelling under pressure.
-- **Travel Readiness**: Open to short and long-term travel for professional growth and learning.
+- **Adaptability**: Quick to learn and adapt to new technologies and platforms.
+- **Teamwork & Discipline**: Strong commitment to a disciplined, team-first approach.
+- **High-Pressure Performance**: Effective in high-pressure environments and adaptable to changing situations.
+- **Travel Readiness**: Open to both short and long-term professional travel.
 
 ## Technical Skills
-- **Programming Languages**: Proficient in Python, JavaScript, and familiar with basic HTML and CSS.
-- **Object-Oriented Programming**: Experienced in creating class hierarchies and understanding inheritance.
-- **Software Testing & Algorithms**: Skilled in unit testing, working with iterators, generators, decorators, and understanding basic algorithms.
+- **Programming Languages**: Expertise in Python, JavaScript, HTML, and CSS.
+- **Scripting & Automation**: Proficient in BASH scripting for automation and system tasks.
+- **Object-Oriented Programming**: Experienced in creating class hierarchies and implementing inheritance.
+- **Software Testing & Algorithms**: Skilled in unit testing, iterators, generators, decorators, and understanding basic algorithms.
 - **Data Structures**: Knowledgeable in both linear and two-dimensional data structures.
 - **Web Development**: Capable of handling data streams, files, directories, HTTP, and developing simple single-page applications.
-- **Database & API Integration**: Experienced with non-relational databases, REST APIs, and asynchronous programming.
-- **DOM Manipulation & JSON**: Proficient in information extraction and manipulation using JSON and DOM tree techniques.
-
-
-Thank you for visiting my profile. Let's make great things happen together!
-
-<br />
+- **Database Management**: Proficient with MySQL and MongoDB for database management.
+- **Cloud Platforms**: Experienced in deploying and managing applications on AWS and Azure.
+- **Development Tools**: Proficient with Visual Studio Code (VSCode) and Jenkins for development and continuous integration.
+- **Operating Systems**: Skilled in Linux system administration.
+- **APIs & Networking**: Experienced with REST APIs, network protocols, and tools like Postman.
+- **Hardware & IoT**: Familiar with Raspberry Pi and IoT applications.
+- **DOM Manipulation & JSON**: Adept in information extraction and manipulation using JSON and DOM tree techniques.
 
 
 ## Languages and Tools:
@@ -39,3 +40,5 @@ Thank you for visiting my profile. Let's make great things happen together!
 <a href="https://discord.gg/USQV5F2sY9" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Kristiyan Bonev"/></a>
 </p>
 
+
+Thank you for visiting my profile. Looking forward to exciting collaborations and achievements!
