@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am an E-commerce Solutions Diagnostic and Mainte
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,linux,mysql,mongodb,aws,azure,postman,raspberrypi,jenkins" />
+   <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,linux,mysql,mongodb,aws,azure,postman,raspberrypi,jenkins, docker, kubernetes, terraform, ms sql" />
 </a>
 
 
