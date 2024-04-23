@@ -1,47 +1,36 @@
 # Hello World, I'm Kristiyan Bonev 👋
 
-Welcome to my GitHub profile! I am an E-commerce Solutions Diagnostic and Maintenance Specialist with a rich background in AWS and other Public Cloud Platforms. My diverse technical skill set enables me to effectively address complex challenges in various domains.
+Welcome to my GitHub profile! I am a dynamic professional with a rich blend of experiences in software support, cybersecurity, penetration testing, and software engineering. My journey has equipped me with a unique perspective, enabling me to tackle complex challenges across various domains.
 
 ## Expertise
-- **Scripting Languages**: Advanced skills in BASH, Perl, and Python for scripting, log parsing, and analysis.
-- **Web Services & Network Protocols**: Proficient in managing web services and understanding network protocols.
-- **Language Proficiency**: Fluent in English, both verbally and written.
-- **Adaptability**: Quick to learn and adapt to new technologies and platforms.
-- **Teamwork & Discipline**: Strong commitment to a disciplined, team-first approach.
-- **High-Pressure Performance**: Effective in high-pressure environments and adaptable to changing situations.
-- **Travel Readiness**: Open to both short and long-term professional travel.
+- **Software Support**: Providing comprehensive technical support for various software and applications.
+- **Cybersecurity**: Identifying vulnerabilities and implementing security measures to safeguard digital assets.
+- **Penetration Testing**: Conducting thorough assessments to enhance organizational security posture.
+- **Software Engineering**: Developing efficient and scalable solutions to meet diverse business needs.
 
 ## Technical Skills
-- **Programming Languages**: Expertise in Python, JavaScript, HTML, and CSS.
-- **Scripting & Automation**: Proficient in BASH scripting for automation and system tasks.
-- **Object-Oriented Programming**: Experienced in creating class hierarchies and implementing inheritance.
-- **Software Testing & Algorithms**: Skilled in unit testing, iterators, generators, decorators, and understanding basic algorithms.
-- **Data Structures**: Knowledgeable in both linear and two-dimensional data structures.
+- **Programming Languages**: Proficient in Python, JavaScript, HTML, and CSS.
+- **Scripting & Automation**: Experienced in BASH scripting for automation and system tasks.
+- **Object-Oriented Programming**: Skilled in creating class hierarchies and implementing inheritance.
+- **Software Testing & Algorithms**: Knowledgeable in unit testing, iterators, generators, decorators, and basic algorithms.
+- **Data Structures**: Proficient in both linear and two-dimensional data structures.
 - **Web Development**: Capable of handling data streams, files, directories, HTTP, and developing simple single-page applications.
-- **Database Management**: Proficient with MySQL and MongoDB for database management.
-- **Cloud Platforms**: Experienced in deploying and managing applications on AWS and Azure.
+- **Database Management**: Experienced with MySQL and MongoDB for efficient data management.
+- **Cloud Platforms**: Skilled in deploying and managing applications on AWS and Azure.
 - **Development Tools**: Proficient with Visual Studio Code (VSCode) and Jenkins for development and continuous integration.
-- **Operating Systems**: Skilled in Linux system administration.
-- **APIs & Networking**: Experienced with REST APIs, network protocols, and tools like Postman.
-- **Hardware & IoT**: Familiar with Raspberry Pi and IoT applications.
+- **Operating Systems**: Experienced in Linux system administration.
+- **APIs & Networking**: Familiar with REST APIs, network protocols, and tools like Postman.
+- **Hardware & IoT**: Knowledgeable about Raspberry Pi and IoT applications.
 - **DOM Manipulation & JSON**: Adept in information extraction and manipulation using JSON and DOM tree techniques.
-
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,linux,mysql,mongodb,aws,azure,postman,raspberrypi,jenkins,docker,kubernetes,terraform" />
 </a>
 
-
-
 ## Connect with me via:
-<p align="left">
-<a href="https://www.linkedin.com/in/kristiyan-bonev-53b374231/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Kristiyan Bonev"/></a>
-<a href="https://twitter.com/TheCoinHustlers" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Kristiyan Bonev"/></a>
-<a href="https://discord.gg/USQV5F2sY9" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="Kristiyan Bonev"/></a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/kristiyan-bonev-53b374231/)
+- [Twitter](https://twitter.com/TheCoinHustlers)
+- [Discord](https://discord.gg/USQV5F2sY9)
 
-
-
-
-Thank you for visiting my profile. Looking forward to exciting collaborations and achievements!
+Thank you for visiting my profile. I'm excited about potential collaborations and achievements!
