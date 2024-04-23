@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a dynamic professional with a rich blend of e
 - **Software Testing & Algorithms**: Knowledgeable in unit testing, iterators, generators, decorators, and basic algorithms.
 - **Data Structures**: Proficient in both linear and two-dimensional data structures.
 - **Web Development**: Capable of handling data streams, files, directories, HTTP, and developing simple single-page applications.
-- **Database Management**: Experienced with MySQL and MongoDB for efficient data management.
+- **Database Management**: Experienced with MS SQL, MySQL and MongoDB for efficient data management.
 - **Cloud Platforms**: Skilled in deploying and managing applications on AWS and Azure.
 - **Development Tools**: Proficient with Visual Studio Code (VSCode) and Jenkins for development and continuous integration.
 - **Operating Systems**: Experienced in Linux system administration.
