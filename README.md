@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I am a dynamic professional with a rich blend of e
 </a>
 
 ## Connect with me via:
-- [LinkedIn](https://www.linkedin.com/in/kristiyan-bonev-53b374231/)
-- [Twitter](https://twitter.com/TheCoinHustlers)
-- [Discord](https://discord.gg/USQV5F2sY9)
+<p align="left">
+<a href="https://www.linkedin.com/in/kristiyan-bonev-53b374231/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Kristiyan Bonev"/></a>
+</p>
 
 Thank you for visiting my profile. I'm excited about potential collaborations and achievements!
