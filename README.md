@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a dynamic professional with a rich blend of e
 - **Software Support**: Providing comprehensive technical support for various software and applications.
 - **Cybersecurity**: Identifying vulnerabilities and implementing security measures to safeguard digital assets.
 - **Penetration Testing**: Conducting thorough assessments to enhance organizational security posture.
-- **Software Engineering**: Developing efficient and scalable solutions to meet diverse business needs.
+- **DevSecOps**: Integrating security practices into the software development lifecycle to ensure secure and efficient operations.
 
 ## Technical Skills
 - **Programming Languages**: Proficient in Python, JavaScript, HTML, and CSS.
@@ -22,6 +22,9 @@ Welcome to my GitHub profile! I am a dynamic professional with a rich blend of e
 - **APIs & Networking**: Familiar with REST APIs, network protocols, and tools like Postman.
 - **Hardware & IoT**: Knowledgeable about Raspberry Pi and IoT applications.
 - **DOM Manipulation & JSON**: Adept in information extraction and manipulation using JSON and DOM tree techniques.
+- **Cybersecurity**: Well-versed in security principles, risk assessment, threat modeling, and incident response procedures.
+- **Penetration Testing**: Skilled in conducting vulnerability assessments, penetration testing, and identifying security weaknesses in systems and networks.
+- **DevSecOps**: Proficient in integrating security controls and best practices into CI/CD pipelines, ensuring secure and compliant software delivery.
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
