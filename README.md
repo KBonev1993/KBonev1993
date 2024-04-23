@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I am a dynamic professional with a rich blend of e
 
 ## Expertise
 - **Software Support**: Providing comprehensive technical support for various software and applications.
+- **Software Engineering**: Developing efficient and scalable solutions to meet diverse business needs.
 - **Cybersecurity**: Identifying vulnerabilities and implementing security measures to safeguard digital assets.
 - **Penetration Testing**: Conducting thorough assessments to enhance organizational security posture.
 - **DevSecOps**: Integrating security practices into the software development lifecycle to ensure secure and efficient operations.
