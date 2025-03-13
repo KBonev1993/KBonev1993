@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am a dynamic professional with a rich blend of e
 
 ## Languages and Tools:
 <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,linux,mysql,mongodb,aws,azure,postman,raspberrypi,jenkins,docker,kubernetes,terraform" />
+   <img src="https://skillicons.dev/icons?i=python,js,vscode,html,css,bash,linux,mysql,mongodb,aws,azure,gcp,postman,raspberrypi,jenkins,docker,kubernetes,terraform" />
 </a>
 
 ## Connect with me via:
