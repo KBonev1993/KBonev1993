@@ -1,52 +1,72 @@
-# Hi there! I'm Kristiyan Bonev 👋
+<h1 align="center">Hi there 👋, I'm Kristiyan Bonev</h1>
 
-I am a Software Developer and Cybersecurity Specialist with experience in cloud technologies, web development, and ethical hacking. Always eager to learn and improve my skills.
+<p align="center">
+  🔐 Cybersecurity Enthusiast | 🖥️ Software Developer | ☁️ Cloud Technology Professional
+</p>
 
 ---
 
-## 🚀 Technologies & Tools I Work With
+## 🧠 About Me
+
+- 💼 Currently working as **SW/APP/Cloud Tech Support Analyst** at Accenture
+- 🔭 Passionate about **penetration testing**, **web app security**, and **cloud infrastructure**
+- 📚 Constant learner in offensive security and DevSecOps
+- 🎯 Focused on building secure, scalable, and efficient systems
+- 🌍 Based in Bulgaria
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="GCP" src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-6B2E4F?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="SFTP" src="https://img.shields.io/badge/-SFTP-6DB33F?style=for-the-badge&logo=filezilla&logoColor=white" />
-  <img alt="MS SQL" src="https://img.shields.io/badge/-MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="PIM" src="https://img.shields.io/badge/-PIM-4A90E2?style=for-the-badge" />
-  <img alt="ELK Stack" src="https://img.shields.io/badge/-ELK_Stack-F46A25?style=for-the-badge&logo=elastic&logoColor=white" />
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <br><br>
+
+  <!-- Cloud & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
+  <br><br>
+
+  <!-- Tools & IDEs -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="25" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/SFTP-5A5A5A?style=for-the-badge&logoColor=white" height="25" alt="SFTP"/>
+  <br><br>
+
+  <!-- Databases / Logs / Identity -->
+  <img src="https://img.shields.io/badge/MS SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25" alt="MS SQL"/>
+  <img src="https://img.shields.io/badge/PIM-343434?style=for-the-badge&logoColor=white" height="25" alt="Privileged Identity Management"/>
+  <img src="https://img.shields.io/badge/ELK Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" height="25" alt="ELK"/>
 </p>
+
+## 🛡️ Penetration Testing Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-0072C6?style=for-the-badge&logoColor=white" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/Metasploit-272727?style=for-the-badge&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Burp Suite-FF6610?style=for-the-badge&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nessus-2E7D32?style=for-the-badge&logoColor=white" alt="Nessus"/>
+  <img src="https://img.shields.io/badge/Nikto-E91E63?style=for-the-badge&logoColor=white" alt="Nikto"/>
+  <img src="https://img.shields.io/badge/OWASP ZAP-000000?style=for-the-badge&logoColor=white" alt="OWASP ZAP"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Netcat-444444?style=for-the-badge&logoColor=white" alt="Netcat"/>
+  <img src="https://img.shields.io/badge/John the Ripper-333333?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
+</p>
+
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contact Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kristiyanbonev&show_icons=true&theme=dark&count_private=true" alt="Kristiyan's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristiyanbonev&theme=dark" alt="Kristiyan's GitHub Streak" />
-</p>
+- 📧 Email: kristiyan.bonev@protonmail.com  
+- 🌐 LinkedIn: [Kristiyan Bonev](https://www.linkedin.com/in/kristiyan-bonev/)  
+- 🔐 TryHackMe: [@bonev](https://tryhackme.com/p/bonev)
 
 ---
 
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/kristiyanbonev)
-- [GitHub](https://github.com/kristiyanbonev)
-- Email: kristiyan.bonev@example.com
-
----
-
-> "Security is not a product, but a process." – Bruce Schneier
+⭐️ _Thank you for visiting my profile!_  
+🔁 _Feel free to fork or connect with me!_
