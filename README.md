@@ -19,16 +19,16 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Programming Languages -->
+  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <br><br>
 
-  <!-- Cloud & Platforms -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="25" alt="GCP"/>
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="25" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" height="25" alt="GCP"/>
   <br><br>
 
   <!-- Tools & IDEs -->
@@ -37,10 +37,10 @@
   <img src="https://img.shields.io/badge/SFTP-5A5A5A?style=for-the-badge&logoColor=white" height="25" alt="SFTP"/>
   <br><br>
 
-  <!-- Databases / Logs / Identity -->
+  <!-- Databases / Identity / Logging -->
   <img src="https://img.shields.io/badge/MS SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="25" alt="MS SQL"/>
   <img src="https://img.shields.io/badge/PIM-343434?style=for-the-badge&logoColor=white" height="25" alt="Privileged Identity Management"/>
-  <img src="https://img.shields.io/badge/ELK Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" height="25" alt="ELK"/>
+  <img src="https://img.shields.io/badge/ELK Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" height="25" alt="ELK Stack"/>
 </p>
 
 ---
@@ -64,18 +64,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kbonev1993&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kbonev1993&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbonev1993&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
 
 ## ⏱️ WakaTime Coding Stats
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime)](https://wakatime.com/@your-wakatime)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kbonev1993)](https://wakatime.com/@kbonev1993)
+
 
 ---
 
