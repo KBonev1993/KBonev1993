@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-- 💼 Currently working as **SW/APP/Cloud Tech Support Analyst** at Accenture  
+- 💼 Currently working as **SW/APP/Cloud Operations Analyst** at Accenture  
 - 🔭 Passionate about **Web3**, **Penetration Testing**, **Web App Security**, and **Cloud Infrastructure**  
 - 📚 Constant learner in offensive security and DevSecOps  
 - 🎯 Focused on building secure, scalable, and efficient systems  
