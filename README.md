@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 - 💼 Currently working as **SW/APP/Cloud Tech Support Analyst** at Accenture
-- 🔭 Passionate about **penetration testing**, **web app security**, and **cloud infrastructure**
+- 🔭 Passionate about **Web3**, **Penetration Testing**, **Web App Security**, and **Cloud Infrastructure**
 - 📚 Constant learner in offensive security and DevSecOps
 - 🎯 Focused on building secure, scalable, and efficient systems
 - 🌍 Based in Bulgaria
@@ -62,9 +62,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: kristiyan.bonev@protonmail.com  
+- 📧 Email: k.bonev1993@gmail.com 
 - 🌐 LinkedIn: [Kristiyan Bonev](https://www.linkedin.com/in/kristiyan-bonev/)  
-- 🔐 TryHackMe: [@bonev](https://tryhackme.com/p/bonev)
 
 ---
 
