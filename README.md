@@ -82,7 +82,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: k.bonev1993@gmail.com  
-- 🌐 LinkedIn: [Kristiyan Bonev](https://www.linkedin.com/in/kristiyan-bonev/)  
+- 🌐 LinkedIn: [Kristiyan Bonev](https://www.linkedin.com/in/kristiyan-bonev-53b374231/)  
 
 ---
 
