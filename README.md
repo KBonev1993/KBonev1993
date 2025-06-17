@@ -71,11 +71,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbonev1993&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
-
+<!--
 ## ⏱️ WakaTime Coding Stats
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kbonev1993)](https://wakatime.com/@kbonev1993)
-
+-->
 
 ---
 
