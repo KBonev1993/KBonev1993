@@ -8,11 +8,11 @@
 
 ## 🧠 About Me
 
-- 💼 Currently working as **SW/APP/Cloud Tech Support Analyst** at Accenture
-- 🔭 Passionate about **Web3**, **Penetration Testing**, **Web App Security**, and **Cloud Infrastructure**
-- 📚 Constant learner in offensive security and DevSecOps
-- 🎯 Focused on building secure, scalable, and efficient systems
-- 🌍 Based in Bulgaria
+- 💼 Currently working as **SW/APP/Cloud Tech Support Analyst** at Accenture  
+- 🔭 Passionate about **Web3**, **Penetration Testing**, **Web App Security**, and **Cloud Infrastructure**  
+- 📚 Constant learner in offensive security and DevSecOps  
+- 🎯 Focused on building secure, scalable, and efficient systems  
+- 🌍 Based in Bulgaria  
 
 ---
 
@@ -27,8 +27,8 @@
   <br><br>
 
   <!-- Cloud & Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="GCP"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="25" alt="GCP"/>
   <br><br>
 
   <!-- Tools & IDEs -->
@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/PIM-343434?style=for-the-badge&logoColor=white" height="25" alt="Privileged Identity Management"/>
   <img src="https://img.shields.io/badge/ELK Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" height="25" alt="ELK"/>
 </p>
+
+---
 
 ## 🛡️ Penetration Testing Tools
 
@@ -57,12 +59,29 @@
   <img src="https://img.shields.io/badge/John the Ripper-333333?style=for-the-badge&logoColor=white" alt="John the Ripper"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+## ⏱️ WakaTime Coding Stats
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime)](https://wakatime.com/@your-wakatime)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: k.bonev1993@gmail.com 
+- 📧 Email: k.bonev1993@gmail.com  
 - 🌐 LinkedIn: [Kristiyan Bonev](https://www.linkedin.com/in/kristiyan-bonev/)  
 
 ---
