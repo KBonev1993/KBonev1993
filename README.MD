@@ -14,7 +14,7 @@ focused on technical support and cloud infrastructure operations.
 💼 My technical career evolved through hands-on operational roles and was further reinforced by a Full Stack Engineering course,  
 providing me with a solid understanding of how applications and infrastructure interact.
 
-🔧 Prior to my role in IT operations, I worked as an **administrator of software and hardware repair stores**,  
+🔧 Prior to my role in IT operations, I worked as an **administrator of stores for mobile phones, computers, and laptops**,  
 handling smartphones, computers, and laptops. This experience helped me develop strong troubleshooting skills,  
 a practical mindset, and confidence working with real-world technical problems.
 
