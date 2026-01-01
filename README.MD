@@ -8,7 +8,8 @@
 
 ## 👨‍💻 About Me
 
-Hello! My name is **Kristiyan Bonev** and I work as a **Cloud Operations Analyst**, focused on technical support and cloud infrastructure operations.
+Hello! My name is **Kristiyan Bonev** and I work as a **Cloud Operations Analyst**, 
+focused on technical support and cloud infrastructure operations.
 
 💼 My technical career evolved through hands-on operational roles and was further reinforced by a Full Stack Engineering course,  
 providing me with a solid understanding of how applications and infrastructure interact.
