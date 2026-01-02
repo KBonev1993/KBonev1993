@@ -53,7 +53,7 @@ improving my technical depth and problem-solving abilities.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" title="Jenkins"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>
-
+  <br />
   <!-- Observability -->
   <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" title="ELK Stack"/>
   <img src="https://img.shields.io/badge/New_Relic-008C99?style=for-the-badge&logoColor=white" title="New Relic"/>
